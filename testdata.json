@@ -1,0 +1,70 @@
+[
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle1",
+		"dauer ": "2.4293623499413521"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle2",
+		"dauer ": "4.0787330210055854"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle3",
+		"dauer ": "6.2216560492978354"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle4",
+		"dauer ": "3.8124572491106887"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle5",
+		"dauer ": "4.4311574071379045"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle6",
+		"dauer ": "2.9775602811012649"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle7",
+		"dauer ": "3.8515949334498067"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle8",
+		"dauer ": "2.4499747651767989"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle9",
+		"dauer ": "2.7554946959775282"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle10",
+		"dauer ": "2.6163885157043065"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle11",
+		"dauer ": "2.505814824160923"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle12",
+		"dauer ": "4.2073099772668217"
+	},
+	{
+		"rungroup": "1",
+		"stage_obejct": "tabelle13",
+		"dauer ": "2.162770986529535"
+	},
+	{
+		"rungroup": ""
+	}
+]
